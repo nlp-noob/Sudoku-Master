@@ -10,9 +10,9 @@ QQ: 1063420865
 ```
 
 ## Breaf Proccess of Development
-&#9726 * Generate the puzzles *
-&#9726 * Transform the puzzles data into .db type *
-&#9726 * Generate the bitmap for animation *
-&#9726 * Build the stucture for surfaceview *
-&#9726 * Import the significant files *
-&#9726 * Code for game logic*
+&#9726 * Generate the puzzles *\
+&#9726 * Transform the puzzles data into .db type *\
+&#9726 * Generate the bitmap for animation *\
+&#9726 * Build the stucture for surfaceview *\
+&#9726 * Import the significant files *\
+&#9726 * Code for game logic*\
