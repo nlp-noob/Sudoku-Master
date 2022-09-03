@@ -9,7 +9,7 @@ WeChat: wx_peipeiya
 QQ: 1063420865
 ```
 
-## Breaf Proccess of Development
+## Breaf Process of Development
 ```
 Generate the puzzles
 Transform the puzzles data into .db type
